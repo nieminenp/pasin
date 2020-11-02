@@ -1,2 +1,2 @@
-# pasin.github.io
-My webpages
+# pasin
+My webpages, some information about me
